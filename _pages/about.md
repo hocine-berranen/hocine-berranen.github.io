@@ -28,7 +28,7 @@ latest_posts:
 
 Hello and welcome to my website.
 
-I am currently a second-year student in the Bachelor's program in Computer Science and Software Engineering at UQAM (Université du Québec à Montréal), where I am developing a strong foundation in programming, software design, problem-solving, and modern development practices.
+I am currently a second-year student in the Bachelor's program in Computer Science and Software Engineering at UQAM (University of Quebec in Montreal), where I am developing a strong foundation in programming, software design, problem-solving, and modern development practices.
 
 Before entering this field, I graduated with honors from the Certificate in Business Technologies. I also previously studied in the Bachelor's program in Education at the Université de Montréal. These experiences helped me build strong communication skills, discipline, adaptability, and a natural ability to explain, support, and work effectively with others.
 
