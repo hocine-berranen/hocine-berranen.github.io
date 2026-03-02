@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_9435.jpg
   image_circular: false
   more_info: >
     <p>Software Engineering Student</p>
