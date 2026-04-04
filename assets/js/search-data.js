@@ -76,9 +76,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-a-modular-c-tool-for-time-series-analysis",
+          title: 'A Modular C Tool for Time Series Analysis',
+          description: "A modular C application for reading, validating, analyzing, and visualizing time series data.It supports interpolation, JSON input, and Gnuplot script generation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
