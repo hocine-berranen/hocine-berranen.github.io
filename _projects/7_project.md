@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-<div style="background-color: #2f4358; color: white; font-size: 2rem; font-weight: 700; padding: 10px 14px; margin-top: 2rem; margin-bottom: 1.2rem;">
+<div style="background-color: #2f4358; color: white; font-size: 2rem; font-weight: 700; padding: 6px 14px; margin-top: 2rem; margin-bottom: 1.2rem;">
   Introduction
 </div>
 
