@@ -8,7 +8,9 @@ category: work
 related_publications: false
 ---
 
-## Introduction
+<div style="background-color: #2f4358; color: white; font-size: 2rem; font-weight: 700; padding: 10px 14px; margin-top: 2rem; margin-bottom: 1.2rem;">
+  Introduction
+</div>
 
 `tempo` is a command-line application written in C for reading, analyzing, and transforming time series data. It was built as a modular tool that can process chronological observations, validate their structure, compute useful statistics, interpolate intermediate values, and generate visualization-ready output.
 
