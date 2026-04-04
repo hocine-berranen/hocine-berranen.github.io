@@ -7,13 +7,12 @@ importance: 1
 category: work
 related_publications: false
 ---
-
 <div style="display: flex; justify-content: flex-end; margin-top: 1rem; margin-bottom: 1.5rem;">
   <a href="https://github.com/hocine-berranen/A-Modular-C-Tool-for-Time-Series-Analysis"
      target="_blank"
      rel="noopener"
-     style="display: inline-flex; align-items: center; gap: 7px; background-color: #000; color: #fff; padding: 7px 12px; border-radius: 7px; text-decoration: none; font-weight: 700; font-size: 0.92rem; line-height: 1;">
-    <svg height="17" width="17" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+     style="display: inline-flex; align-items: center; gap: 7px; background-color: #000; color: #fff !important; padding: 7px 12px; border-radius: 7px; text-decoration: none; font-weight: 700; font-size: 0.92rem; line-height: 1;">
+    <svg height="17" width="17" viewBox="0 0 16 16" fill="white" aria-hidden="true" style="flex-shrink: 0;">
       <path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38
       0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13
       -.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.5-1.07
@@ -23,7 +22,7 @@ related_publications: false
       .29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8 8 0 0 0 16 8
       c0-4.42-3.58-8-8-8Z"/>
     </svg>
-    <span>View Source</span>
+    <span style="color: #fff !important; display: inline-block;">View Source</span>
   </a>
 </div>
 
@@ -263,12 +262,12 @@ Finally, I learned the importance of maintaining and extending an evolving codeb
 
 Beyond the final features themselves, the project reflects a broader approach to software development: building a tool incrementally, organizing it into clear modules, extending it without losing structure, and supporting it with validation and testing. For me, it became a strong practical exercise in writing reliable C code and shaping a small but real technical system from the ground up.
 
-<div style="display: flex; justify-content: center; margin-top: 2rem; margin-bottom: 1rem;">
+<div style="display: flex; justify-content: flex-end; margin-top: 1rem; margin-bottom: 1.5rem;">
   <a href="https://github.com/hocine-berranen/A-Modular-C-Tool-for-Time-Series-Analysis"
      target="_blank"
      rel="noopener"
-     style="display: inline-flex; align-items: center; gap: 7px; background-color: #000; color: #fff; padding: 7px 12px; border-radius: 7px; text-decoration: none; font-weight: 700; font-size: 0.92rem; line-height: 1;">
-    <svg height="17" width="17" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+     style="display: inline-flex; align-items: center; gap: 7px; background-color: #000; color: #fff !important; padding: 7px 12px; border-radius: 7px; text-decoration: none; font-weight: 700; font-size: 0.92rem; line-height: 1;">
+    <svg height="17" width="17" viewBox="0 0 16 16" fill="white" aria-hidden="true" style="flex-shrink: 0;">
       <path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38
       0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13
       -.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.5-1.07
@@ -278,6 +277,6 @@ Beyond the final features themselves, the project reflects a broader approach to
       .29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8 8 0 0 0 16 8
       c0-4.42-3.58-8-8-8Z"/>
     </svg>
-    <span>View Source</span>
+    <span style="color: #fff !important; display: inline-block;">View Source</span>
   </a>
 </div>
