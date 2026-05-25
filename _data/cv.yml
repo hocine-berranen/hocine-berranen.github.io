@@ -3,7 +3,7 @@ cv:
   label: Étudiant en informatique et génie logiciel
   email: hocine.berranen1@gmail.com
   location: Montréal, Québec, Canada
-  summary: Étudiant en informatique et génie logiciel à l’UQAM, orienté vers le développement logiciel, les systèmes, les réseaux et les pratiques DevOps.
+  summary: Available for an internship starting August 2026.
 
   sections:
     Education:
@@ -84,7 +84,3 @@ cv:
         location: Montréal, Québec, Canada
         start_date: 2016
         end_date: 2018
-
-    Availability:
-      - name: Disponible pour un stage dès août 2026
-        summary: Références fournies sur demande.
