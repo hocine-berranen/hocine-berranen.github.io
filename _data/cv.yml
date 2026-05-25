@@ -1,86 +1,86 @@
 cv:
   name: Hocine Berranen
-  label: Étudiant en informatique et génie logiciel
+  label: Computer Science and Software Engineering Student
   email: hocine.berranen1@gmail.com
-  location: Montréal, Québec, Canada
+  location: Montreal, Canada
   summary: Available for an internship starting August 2026.
 
   sections:
     Education:
-      - institution: Université du Québec à Montréal (UQAM)
-        location: Montréal, Québec, Canada
-        area: Informatique et génie logiciel
-        studyType: Baccalauréat
+      - institution: University of Quebec in Montreal (UQAM)
+        location: Montreal, Canada
+        area: Computer Science and Software Engineering
+        studyType: Bachelor's Degree
         start_date: 2024
-        end_date: En cours
-        score: "Moyenne : 3.32 / 4.3"
+        end_date: In Progress
+        score: "GPA: 3.32 / 4.3"
 
-      - institution: Université du Québec à Montréal (UQAM)
-        location: Montréal, Québec, Canada
-        area: Technologies d’affaires
-        studyType: Certificat
+      - institution: University of Quebec in Montreal (UQAM)
+        location: Montreal, Canada
+        area: Business Technologies
+        studyType: Certificate
         start_date: 2023
         end_date: 2024
 
     Skills:
-      - name: Langages
+      - name: Languages
         icon: fa-solid fa-code
-        keywords: "Assembleur RISC-V, .NET, Bash, C, C++, C#, Java, JavaScript, PHP, Python, Ruby, SQL"
+        keywords: "RISC-V Assembly, .NET, Bash, C, C++, C#, Java, JavaScript, PHP, Python, Ruby, SQL"
 
-      - name: Systèmes d’exploitation
+      - name: Operating Systems
         icon: fa-solid fa-desktop
         keywords: "Linux/Unix, Windows"
 
-      - name: Logiciels et outils
+      - name: Software and Tools
         icon: fa-solid fa-screwdriver-wrench
         keywords: "Cisco Packet Tracer, Docker, Eclipse, Gimp, Git, Makefile, NetBeans, Oracle Database, Power BI, SharePoint, SAP"
 
-      - name: Méthodologies
+      - name: Methodologies
         icon: fa-solid fa-diagram-project
         keywords: "Agile, Scrum, UML"
 
     Projects:
-      - name: Application Tempo
-        summary: Application C permettant la lecture, l’analyse et l’export de séries temporelles via sous-commandes et Gnuplot.
+      - name: Tempo Application
+        summary: C application for reading, analyzing, and exporting time series data using subcommands and Gnuplot.
         highlights:
-          - "Outils : C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats"
+          - "Tools: C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats"
 
-      - name: Pipeline CI/CD DevOps
-        summary: Pipeline CI/CD automatisant la création de serveurs AWS EC2, le déploiement d’applications Docker avec Terraform, et l’intégration continue via GitHub Actions.
+      - name: DevOps CI/CD Pipeline
+        summary: CI/CD pipeline automating AWS EC2 server provisioning, Docker application deployment with Terraform, and continuous integration through GitHub Actions.
         highlights:
-          - "Outils : CI/CD, Docker, Terraform, AWS EC2, GitHub, Node.js, Linux shell"
+          - "Tools: CI/CD, Docker, Terraform, AWS EC2, GitHub, Node.js, Linux shell"
 
-      - name: Mini-réseau et services simulés
-        summary: Configuration d’un mini-réseau simulé avec sous-réseaux, routeurs et services DHCP, DNS et HTTP, avec analyse du trafic réseau via Wireshark.
+      - name: Simulated Mini-Network and Services
+        summary: Simulated mini-network configured with subnets, routers, and DHCP, DNS, and HTTP services, with network traffic analysis using Wireshark.
         highlights:
-          - "Outils : Packet Tracer, GNS3, Cisco IOS, DHCP, DNS, HTTP, Wireshark, Windows/Linux"
+          - "Tools: Packet Tracer, GNS3, Cisco IOS, DHCP, DNS, HTTP, Wireshark, Windows/Linux"
 
-      - name: Site web de location de véhicules
-        summary: Site web de location de véhicules avec interface interactive, gestion des clients, véhicules et locations, génération de factures et suivi des stocks.
+      - name: Vehicle Rental Website
+        summary: Vehicle rental website with an interactive interface for managing customers, vehicles, rentals, invoice generation, and inventory tracking.
         highlights:
-          - "Outils : HTML, CSS, Ruby on Rails, Node.js/PHP, SQL, MySQL/SQLite, Git/GitHub, Docker"
+          - "Tools: HTML, CSS, Ruby on Rails, Node.js/PHP, SQL, MySQL/SQLite, Git/GitHub, Docker"
 
     Experience:
       - company: Centre de services scolaire de Montréal (CSSDM)
-        position: Suppléant en enseignement
-        location: Montréal, Québec, Canada
+        position: Substitute Teacher
+        location: Montreal, Canada
         start_date: 2020
-        end_date: Présent
+        end_date: Present
 
       - company: BIP Recherche
-        position: Relation service client
-        location: Montréal, Québec, Canada
+        position: Customer Service Representative
+        location: Montreal, Canada
         start_date: 2023
         end_date: 2023
 
       - company: Club Optimiste UdeM
-        position: Coordonnateur des opérations logistiques
-        location: Montréal, Québec, Canada
+        position: Logistics Operations Coordinator
+        location: Montreal, Canada
         start_date: 2018
         end_date: 2020
 
       - company: Fido Solutions
-        position: Vente marketing
-        location: Montréal, Québec, Canada
+        position: Sales and Marketing
+        location: Montreal, Canada
         start_date: 2016
         end_date: 2018
