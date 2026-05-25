@@ -8,6 +8,6 @@ category: work
 related_publications: false
 ---
 
-Project presentation coming soon.
+Source code available upon request.
 
-I am currently revamping this project page and improving the documentation, visuals, and technical presentation.
+This repository is currently private while the documentation, visuals, and technical presentation are being finalized.
