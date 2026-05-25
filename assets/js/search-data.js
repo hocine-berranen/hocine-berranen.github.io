@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -46,24 +46,24 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-tempo-application",
-          title: 'Tempo Application',
-          description: "A modular C application for reading, validating, analyzing, and visualizing time series data. It supports interpolation, JSON input, and Gnuplot script generation.",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-devops-ci-cd-pipeline",
-          title: 'DevOps CI/CD Pipeline',
-          description: "A complete CI/CD pipeline that automates AWS EC2 server provisioning, Docker application deployment with Terraform, and continuous integration through GitHub Actions.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-simulated-mini-network-and-services",
-          title: 'Simulated Mini-Network and Services',
-          description: "A simulated mini-network configured with subnets, routers, and DHCP, DNS, and HTTP services, with network traffic analysis using Wireshark.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-vehicle-rental-website",
-          title: 'Vehicle Rental Website',
-          description: "A vehicle rental website with an interactive interface for managing customers, vehicles, rentals, invoice generation, and inventory tracking.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
