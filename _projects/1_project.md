@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tempo Application
-description: "A modular C application for reading, validating, analyzing, and visualizing time series data. Tools: C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats."
+description: "<br><br>A modular C application for reading, validating, analyzing, and visualizing time series data.<br><br><strong>Tools:</strong> C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats."
 img: assets/img/4.jpg
 importance: 1
 category: work
