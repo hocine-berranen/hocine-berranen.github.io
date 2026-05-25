@@ -51,19 +51,19 @@ ninja.data = [{
           description: "A modular C application for reading, validating, analyzing, and visualizing time series data.Tools: C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-devops-ci-cd-pipeline",
+          title: 'DevOps CI/CD Pipeline',
+          description: "A complete CI/CD pipeline that automates AWS EC2 server provisioning, Docker application deployment with Terraform, and continuous integration through GitHub Actions.Tools: CI/CD, Docker, Terraform, AWS EC2, GitHub, Node.js, Linux shell.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-simulated-mini-network-and-services",
+          title: 'Simulated Mini-Network and Services',
+          description: "A simulated mini-network configured with subnets, routers, and DHCP, DNS, and HTTP services, with network traffic analysis using Wireshark.Tools: Packet Tracer, GNS3, Cisco IOS, DHCP, DNS, HTTP, Wireshark, Windows/Linux.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-vehicle-rental-website",
+          title: 'Vehicle Rental Website',
+          description: "A vehicle rental website with an interactive interface for managing customers, vehicles, rentals, invoice generation, and inventory tracking.Tools: HTML, CSS, Ruby on Rails, Node.js/PHP, SQL, MySQL/SQLite, Git/GitHub, Docker.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
