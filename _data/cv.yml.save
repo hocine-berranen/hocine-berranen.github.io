@@ -1,0 +1,90 @@
+cv:
+  name: Hocine Berranen
+  label: Computer Science and Software Engineering Student
+  email: hocine.berranen1@gmail.com
+  location: Montreal, Canada
+  summary: Computer Science and Software Engineering student at UQAM, focused on software development, systems, networking, and DevOps practices.
+
+  sections:
+    Education:
+      - institution: University of Quebec in Montreal (UQAM)
+        location: Montreal, Canada
+        area: Computer Science and Software Engineering
+        studyType: Bachelor's degree
+        start_date: 2024
+        end_date: In progress
+        score: "GPA: 3.32 / 4.3"
+
+      - institution: University of Quebec in Montreal (UQAM)
+        location: Montreal, Canada
+        area: Business Technologies
+        studyType: Certificate
+        start_date: 2023
+        end_date: 2024
+
+    Skills:
+      - name: Languages
+        icon: fa-solid fa-code
+        keywords: "RISC-V Assembly, .NET, Bash, C, C++, C#, Java, JavaScript, PHP, Python, Ruby, SQL"
+
+      - name: Operating Systems
+        icon: fa-solid fa-desktop
+        keywords: "Linux/Unix, Windows"
+
+      - name: Software and Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Cisco Packet Tracer, Docker, Eclipse, Gimp, Git, Makefile, NetBeans, Oracle Database, Power BI, SharePoint, SAP"
+
+      - name: Methodologies
+        icon: fa-solid fa-diagram-project
+        keywords: "Agile, Scrum, UML"
+
+    Projects:
+      - name: Tempo Application
+        summary: C application for reading, analyzing, and exporting time series data using subcommands and Gnuplot.
+        highlights:
+          - "Tools: C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats"
+
+      - name: DevOps CI/CD Pipeline
+        summary: CI/CD pipeline automating AWS EC2 server provisioning, Docker application deployment with Terraform, and continuous integration through GitHub Actions.
+        highlights:
+          - "Tools: CI/CD, Docker, Terraform, AWS EC2, GitHub, Node.js, Linux shell"
+
+      - name: Simulated Mini-Network and Services
+        summary: Simulated mini-network configured with subnets, routers, and DHCP, DNS, and HTTP services, with network traffic analysis using Wireshark.
+        highlights:
+          - "Tools: Packet Tracer, GNS3, Cisco IOS, DHCP, DNS, HTTP, Wireshark, Windows/Linux"
+
+      - name: Vehicle Rental Website
+        summary: Vehicle rental website with an interactive interface for managing customers, vehicles, rentals, invoice generation, and inventory tracking.
+        highlights:
+          - "Tools: HTML, CSS, Ruby on Rails, Node.js/PHP, SQL, MySQL/SQLite, Git/GitHub, Docker"
+
+    Experience:
+      - company: Centre de services scolaire de Montréal (CSSDM)
+        position: Substitute Teacher
+        location: Montreal, Canada
+        start_date: 2020
+        end_date: Present
+
+      - company: BIP Recherche
+        position: Customer Service Representative
+        location: Montreal, Canada
+        start_date: 2023
+        end_date: 2023
+
+      - company: Club Optimiste UdeM
+        position: Logistics Operations Coordinator
+        location: Montreal, Canada
+        start_date: 2018
+        end_date: 2020
+
+      - company: Fido Solutions
+        position: Sales and Marketing
+        location: Montreal, Canada
+        start_date: 2016
+        end_date: 2018
+
+    Availability:
+      - name: Available for an internship starting August 2026
+        summary: References available upon request.
