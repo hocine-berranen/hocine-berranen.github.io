@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tempo Application
-description: A modular C application for reading, validating, analyzing, and visualizing time series data. It supports interpolation, JSON input, and Gnuplot script generation.
+description: A modular C application for reading, validating, analyzing, and visualizing time series data. Tools: C, Makefile, GitLab, Libtap, JSON, Gnuplot, Bats.
 img: assets/img/4.jpg
 importance: 1
 category: work
